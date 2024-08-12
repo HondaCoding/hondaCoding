@@ -1,4 +1,9 @@
-## Hi there 👋
+<div align= "center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=35&duration=2000&pause=1000&color=00E624&center=true&vCenter=true&multiline=true&width=435&height=65&lines=Hey+%F0%9F%91%8B++I'm+Honda" alt="Typing SVG" /></a>
+  </br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=30&duration=2000&pause=1000&color=7C04E9&center=true&vCenter=true&multiline=true&width=435&height=65&lines=welcome+to+my+profile!" alt="Typing SVG" /></a>
+</div>
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HondaCoding/HondaCoding/output/github-contribution-grid-snake-dark.svg">
