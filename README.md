@@ -4,7 +4,7 @@
   </br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=30&duration=2000&pause=1000&color=7C04E9&center=true&vCenter=true&multiline=true&width=435&height=65&lines=welcome+to+my+profile!" alt="Typing SVG" /></a>
 </div>
-<p align="center"> Greetings, my name Pedro de Carvalho Honda, but everyone calls me just Honda😉. I am currently student at 'Análise e Desenvolvimento de Sistema - Faculdade SENAC Maringá' in Brazil.<p>
+<p align="center"> Greetings, my name is Pedro de Carvalho Honda, but everyone call me just Honda😉. I am currently student at 'Análise e Desenvolvimento de Sistema - Faculdade SENAC Maringá' living in Brazil.<p>
 
 <!-- GIT HUB STATS-->
 <div align="center">
