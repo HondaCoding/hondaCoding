@@ -5,21 +5,36 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=30&duration=2000&pause=1000&color=7C04E9&center=true&vCenter=true&multiline=true&width=435&height=65&lines=welcome+to+my+profile!" alt="Typing SVG" /></a>
 </div>
 
----
+#
 
-<p align="center"> Greetings, my name is Pedro de Carvalho Honda, but everyone calls me just Honda😉. I'm currently student of Analysis and Development of Systems at Faculdade SENAC Maringá, living in Brazil.<p>
+Greetings, my name is Pedro de Carvalho Honda, but everyone calls me just Honda😉.
+- I'm currently student of Analysis and Development of Systems at Faculdade SENAC Maringá
+- I am looking for my 1st job opportunity
 
-<!-- GIT HUB STATS-->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HondaCoding&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HondaCoding&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
+<h3>Where to find me 🔍</h3>
+<div align="left">
+  <a href="https://www.linkedin.com/in/pedro-honda/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:pedrohonda03@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
-<h3>💖 Portfolio</h3>
+<br>
+<!-- GIT HUB STATS-->
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=HondaCoding&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <!--
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HondaCoding&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  /> -->
+</div>
 
+<h3>Portfolio 💖</h3>
   <a href="https://github.com/HondaCoding/Site-DragonsOfDraezor">Website HTML, CSS, Javascript</a> ➔ checkout <a href="https://hondacoding.github.io/Site-DragonsOfDraezor/">here</a>
 
-<h3>🛠 Technologies and tools</h3>
+#
+
+<h3>My technologies and tools 🛠</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"/>
   <img width="12" />
@@ -37,10 +52,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
 
-<h3>📖 Currently learning</h3>
+#
+
+<h3>I am currently learning 📖</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
@@ -51,17 +67,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
 </div>
 
-###
+#
 
-<h3>🔍 Where to find me</h3>
-<div align="left">
-  <a href="https://www.linkedin.com/in/pedro-honda/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:pedrohonda03@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+
 
 
 
