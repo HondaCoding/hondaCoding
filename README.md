@@ -9,7 +9,7 @@
 
 Greetings, my name is *Pedro de Carvalho Honda*, but everyone calls me just **Honda**😉.
 - I'm currently student of **Analysis and Development of Systems** at *Faculdade SENAC Maringá* (now at my last year hehe);
-- I am looking for my first job opportunity.
+- I am looking for my first job opportunity. My real dream is to work in the Game Industry!
 
 <h3>Where to find me 🔍</h3>
 <div align="left">
