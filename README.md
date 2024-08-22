@@ -53,6 +53,8 @@ Greetings, my name is Pedro de Carvalho Honda, but everyone calls me just Hondað
 
 <h3>I am currently learning ðŸ“–</h3>
 <div align="left">
+  <img src="https://www.myexcelacademy.com.pk/wp-content/uploads/2023/12/power-bi-1.jpg" height="30" alt="power bi logo"  />
+  <img width="5" />
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="unity logo" /> 
   <img width="5" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react logo"  />
@@ -62,8 +64,9 @@ Greetings, my name is Pedro de Carvalho Honda, but everyone calls me just Hondað
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="30" alt="php logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" height="30" alt="Jira logo"  />
+  
+  <!--<img width="5" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" height="30" alt="Jira logo"  />-->
 </div>
 
 #
