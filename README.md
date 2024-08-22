@@ -9,7 +9,7 @@
 
 Greetings, my name is Pedro de Carvalho Honda, but everyone calls me just Honda😉.
 - I'm currently student of Analysis and Development of Systems at Faculdade SENAC Maringá (now at my last year hehe);
-- I am looking for my 1st job opportunity. My dream is to work with games, not necessary development, but be in the area.
+- I am looking for my 1st job opportunity.
 
 <h3>Where to find me 🔍</h3>
 <div align="left">
