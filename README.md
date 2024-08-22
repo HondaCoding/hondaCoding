@@ -7,9 +7,9 @@
 
 #
 
-Greetings, my name is Pedro de Carvalho Honda, but everyone calls me just Honda😉.
-- I'm currently student of Analysis and Development of Systems at Faculdade SENAC Maringá (now at my last year hehe);
-- I am looking for my 1st job opportunity.
+Greetings, my name is *Pedro de Carvalho Honda*, but everyone calls me just **Honda**😉.
+- I'm currently student of **Analysis and Development of Systems** at *Faculdade SENAC Maringá* (now at my last year hehe);
+- I am looking for my first job opportunity.
 
 <h3>Where to find me 🔍</h3>
 <div align="left">
@@ -30,7 +30,7 @@ Greetings, my name is Pedro de Carvalho Honda, but everyone calls me just Honda�
 </div>
 
 <h3>Portfolio 💖</h3>
-  <a href="https://github.com/HondaCoding/Site-DragonsOfDraezor">Website HTML, CSS, Javascript</a> ➔ checkout <a href="https://hondacoding.github.io/Site-DragonsOfDraezor/">here</a>
+  <a href="https://github.com/HondaCoding/Site-DragonsOfDraezor">[Repo]Website HTML, CSS, Javascript</a> ➔ checkout <a href="https://hondacoding.github.io/Site-DragonsOfDraezor/">here</a>
 
 #
 
