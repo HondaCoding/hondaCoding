@@ -31,7 +31,7 @@ Greetings, my name is *Pedro de Carvalho Honda*, but everyone calls me just **Ho
 
 <h3>Portfolio 💖</h3>
 
-- <a href="https://github.com/HondaCoding/Site-DragonsOfDraezor">[Repo] Website HTML, CSS, Javascript</a> ➔ checkout <a href="https://hondacoding.github.io/Site-DragonsOfDraezor/">here</a> 
+- <a href="https://github.com/HondaCoding/Site-DragonsOfDraezor">[Repo] Website HTML, CSS, Javascript</a> ➔ <a href="https://hondacoding.github.io/Site-DragonsOfDraezor/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" /></a> 
 - <a href="https://github.com/HondaCoding/landingpageLuisAngeloni">[Repo] UX Design Landing page</a>
 
 #
