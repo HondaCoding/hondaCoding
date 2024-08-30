@@ -22,6 +22,9 @@ Greetings, my name is *Pedro de Carvalho Honda*, but everyone calls me just **Ho
   </a>
 </div>
 
+
+<!--[![My Skills](https://skillicons.dev/icons?i=linkedin,gmail&theme=light)](https://skillicons.dev)-->
+
 <br>
 <!-- GIT HUB STATS-->
 <div align="left">
@@ -37,6 +40,7 @@ Greetings, my name is *Pedro de Carvalho Honda*, but everyone calls me just **Ho
 #
 
 <h3>My technologies and tools 🛠</h3>
+
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" alt="html5 logo"/>
   <img width="5" />
@@ -50,6 +54,9 @@ Greetings, my name is *Pedro de Carvalho Honda*, but everyone calls me just **Ho
   <img width="5" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="30" alt="figma logo"  />
 </div>
+
+
+<!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,mysql,figma)](https://skillicons.dev)-->
 
 #
 
@@ -66,14 +73,16 @@ Greetings, my name is *Pedro de Carvalho Honda*, but everyone calls me just **Ho
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="30" alt="php logo"  />
-  
-  <!--<img width="5" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" height="30" alt="Jira logo"  />-->
 </div>
+
+
+<!--[![My Skills](https://skillicons.dev/icons?i=java,spring,flutter,dart,php,react,unity)](https://skillicons.dev)-->
+
 
 #
 
 <h3>I'm familiar with 😄</h3>
+
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java logo" /> 
   <img width="5" />
@@ -82,6 +91,12 @@ Greetings, my name is *Pedro de Carvalho Honda*, but everyone calls me just **Ho
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R logo" /> 
   <img width="5" />
 </div>
+
+
+
+<!--[![My Skills](https://skillicons.dev/icons?i=r,blender)](https://skillicons.dev)-->
+
+
 
 <!-- SNAKE CONTRIBUITIONS-->
 <picture align="center">
