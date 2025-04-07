@@ -9,7 +9,7 @@
 
 Greetings, my name is *Pedro de Carvalho Honda*, but everyone calls me just **Honda**😉.
 - I'm currently student of **Analysis and Development of Systems** at *Faculdade SENAC Maringá* (now at my last year hehe);
-- I am looking for my first job opportunity. My real dream is to work in the Game Industry!
+- I am looking for my first job opportunity!
 
 <h3>Where to find me 🔍</h3>
 <div align="left">
@@ -62,17 +62,14 @@ Greetings, my name is *Pedro de Carvalho Honda*, but everyone calls me just **Ho
 
 <h3>I am currently learning 📖</h3>
 <div align="left">
-  <img src="https://www.myexcelacademy.com.pk/wp-content/uploads/2023/12/power-bi-1.jpg" height="30" alt="power bi logo"  />
-  <img width="5" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react logo"  />  
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="unity logo" /> 
   <img width="5" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react logo"  />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" alt="csharp logo" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=for-the-badge" alt="dotnet logo" />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="30" alt="php logo"  />
+  
 </div>
 
 
@@ -88,7 +85,9 @@ Greetings, my name is *Pedro de Carvalho Honda*, but everyone calls me just **Ho
   <img width="5" />
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="blender logo" /> 
   <img width="5" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R logo" /> 
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="R logo" /> 
+  <img width="5" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" alt="R logo" /> 
   <img width="5" />
 </div>
 
