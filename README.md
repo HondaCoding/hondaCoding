@@ -32,11 +32,11 @@ Greetings, my name is *Pedro de Carvalho Honda*, but everyone calls me just **Ho
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HondaCoding&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-<h3>Portfolio 💖</h3>
+<h3>My Works - Portifolio 💖</h3>
 
-- <a href="https://github.com/HondaCoding/Site-DragonsOfDraezor">[Repo] Website HTML, CSS, Javascript</a> ➔ <a href="https://hondacoding.github.io/Site-DragonsOfDraezor/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" /></a> 
-- <a href="https://github.com/HondaCoding/landingpageLuisAngeloni">[Repo] UX Design Landing page</a>
-
+- <a href="https://github.com/HondaCoding/Site-DragonsOfDraezor">[Repo] Website Dragons Of Draezor</a> ➔ <a href="https://hondacoding.github.io/Site-DragonsOfDraezor/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" /></a>
+- <a href="https://github.com/HondaCoding/projeto-hackathon" >[Repo] Sistema CRR - HACKATHON 2025 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Senac_logo.svg/2560px-Senac_logo.svg.png" height="30" /></a>
+- <a href="https://github.com/HondaCoding/landingpageLuisAngeloni">[Repo] UX Design Landing Page</a>
 #
 
 <h3>My technologies and tools 🛠</h3>
