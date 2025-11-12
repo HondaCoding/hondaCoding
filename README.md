@@ -8,8 +8,8 @@
 #
 
 Greetings, my name is *Pedro de Carvalho Honda*, but everyone calls me just **Honda**😉.
-- I'm currently student of **Analysis and Development of Systems** at *Faculdade SENAC Maringá* (now at my last year hehe);
-- I am looking for my first job opportunity!
+- I'm currently finishing my study in **Analysis and Development of Systems** at *Faculdade SENAC Maringá*;
+- I love games, design, and enriching the user experience! And I firmly believe that good work always goes hand in hand with organization, communication, and commitment.
 
 <h3>Where to find me 🔍</h3>
 <div align="left">
